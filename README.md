@@ -11,6 +11,8 @@ The project consists of two main Python scripts:
 
 ---
 
+The data used to perform the analysis in the paper is also in this repository, as well as an extra analysis of X-Axis tilting.
+
 ## 🛠️ Prerequisites
 
 You will need Python 3.8+ and the following dependencies:
